@@ -1,0 +1,21 @@
+h1.title{
+	position: static;
+}
+
+img.figure{
+	display: block;
+	float:left;
+	max-height: 250px;
+	max-width: 250px;
+}
+
+div.vertical-line{
+    column-count: 2;
+	column-gap: 10px;
+	column-rule: 4px outset #ff0000;
+}
+
+div.text{
+	text-align: justify;
+	text-justify: inter-word;
+}
