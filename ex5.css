@@ -19,3 +19,26 @@ div.text{
 	text-align: justify;
 	text-justify: inter-word;
 }
+
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th{
+	border: block;
+	border-top: 1px solid;
+	border-bottom: 1px solid;	
+}
+
+tr{
+	border: block;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+}
+
+td{
+	border: block;
+	border-right: 1px solid;
+
+}
